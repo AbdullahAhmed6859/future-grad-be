@@ -1,0 +1,64 @@
+{
+  "universities": [
+    {
+      "university_name": "Stanford University",
+      "city_country": "Stanford, USA",
+      "program_title": "MS in Computer Science",
+      "program_page": "https://cs.stanford.edu/academics/masters",
+      "application_link": "https://cs.stanford.edu/admissions/masters",
+      "tuition_fees": 55000,
+      "scholarships": [
+        {
+          "name": "Stanford Graduate Fellowship",
+          "link": "https://vpge.stanford.edu/fellowships-funding/sgf"
+        }
+      ],
+      "requirements": {
+        "IELTS": "7.0",
+        "TOEFL": "100",
+        "GRE": "320",
+        "GPA": "3.5"
+      }
+    },
+    {
+      "university_name": "University of Toronto",
+      "city_country": "Toronto, Canada",
+      "program_title": "MSc in Computer Science",
+      "program_page": "https://web.cs.toronto.edu/graduate/msc",
+      "application_link": "https://web.cs.toronto.edu/graduate/apply",
+      "tuition_fees": 45000,
+      "scholarships": [
+        {
+          "name": "Ontario Graduate Scholarship",
+          "link": "https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship"
+        }
+      ],
+      "requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "93",
+        "GRE": "310",
+        "GPA": "3.3"
+      }
+    },
+    {
+      "university_name": "Technical University of Munich",
+      "city_country": "Munich, Germany",
+      "program_title": "MS in Informatics",
+      "program_page": "https://www.in.tum.de/en/in/studies/international-students",
+      "application_link": "https://www.in.tum.de/en/in/studies/application",
+      "tuition_fees": 1500,
+      "scholarships": [
+        {
+          "name": "DAAD Scholarship",
+          "link": "https://www.daad.de/en/study-and-research-in-germany/scholarships"
+        }
+      ],
+      "requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "88",
+        "GRE": null,
+        "GPA": "3.0"
+      }
+    }
+  ]
+} 
